@@ -1,33 +1,43 @@
-.images{
 
-    display: inline;
-    float: left;
-   padding: 20px;
-    
+.imgg {
+width: 300px;
+height: 250px;
 }
-
-
-
-.sec {
+.secc{
 float: left;
-margin-left: 5px;
-    margin-right: 5px;
-}
-.abc{
+margin: 10px;
+  
 
-    width: 320px;
-    word-break: keep-all;
+}
+.par{
+    width: 200px;
+  text-align: center;
+  
+  overflow: visible;
+}
+
+.clearr{
+    clear: both; 
+}
+
+.both{
+    clear: both;
+}
+.chef{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+        width: 300px;
+      height: 300px;
+}
+.chef2{
     text-align: center;
-}
-
-}
-
-.sec img{
-    width: 350px;
-    height: 350px;
+    overflow: visible;
+   
     
 }
-
 
 .pagination {
     
@@ -57,9 +67,24 @@ h1{
 ul{
     margin-left: 20px;
 }
-#abcd{
+#fin{
+    text-align: center;
+}
+#fin1{
     float: right;
 }
-#abcd1{
-text-align: center;
+#firs{
+    float: left;
+    
+}
+
+#firs1{
+    text-align: center;
+}
+#firs2{
+    float: right;
+    
+}
+a{
+    text-decoration: none;
 }
